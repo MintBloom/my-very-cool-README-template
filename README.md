@@ -18,7 +18,7 @@ How to install/setup the application.
 Instructions for how to use or play the application.
 
 
-## Challenges
+## Challenges/Lessons Learned
 Main or interesting challenges faced and how you overcame them.
 
 
